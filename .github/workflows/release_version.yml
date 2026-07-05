@@ -1,4 +1,4 @@
-name: Release Version
+﻿name: Release Version
 on:
   push:
     tags:
@@ -6,6 +6,8 @@ on:
 jobs:
   release:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -13,3 +15,4 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           generate_release_notes: true
+
