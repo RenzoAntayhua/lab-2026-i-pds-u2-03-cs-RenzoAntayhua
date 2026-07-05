@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Comportamiento.Domain.Tests/Comportamiento.Domain.Tests.csproj" />
+  <Project Path="Comportamiento.Domain/Comportamiento.Domain.csproj" />
+</Solution>

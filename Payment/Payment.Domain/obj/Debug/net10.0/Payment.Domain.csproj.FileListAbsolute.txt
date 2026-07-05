@@ -1,0 +1,12 @@
+D:\Labs Patrones\Unidad 2\lab-2026-i-pds-u2-03-cs-RenzoAntayhua\Payment\Payment.Domain\bin\Debug\net10.0\Payment.Domain.deps.json
+D:\Labs Patrones\Unidad 2\lab-2026-i-pds-u2-03-cs-RenzoAntayhua\Payment\Payment.Domain\bin\Debug\net10.0\Payment.Domain.dll
+D:\Labs Patrones\Unidad 2\lab-2026-i-pds-u2-03-cs-RenzoAntayhua\Payment\Payment.Domain\bin\Debug\net10.0\Payment.Domain.pdb
+D:\Labs Patrones\Unidad 2\lab-2026-i-pds-u2-03-cs-RenzoAntayhua\Payment\Payment.Domain\obj\Debug\net10.0\Payment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs Patrones\Unidad 2\lab-2026-i-pds-u2-03-cs-RenzoAntayhua\Payment\Payment.Domain\obj\Debug\net10.0\Payment.Domain.AssemblyInfoInputs.cache
+D:\Labs Patrones\Unidad 2\lab-2026-i-pds-u2-03-cs-RenzoAntayhua\Payment\Payment.Domain\obj\Debug\net10.0\Payment.Domain.AssemblyInfo.cs
+D:\Labs Patrones\Unidad 2\lab-2026-i-pds-u2-03-cs-RenzoAntayhua\Payment\Payment.Domain\obj\Debug\net10.0\Payment.Domain.csproj.CoreCompileInputs.cache
+D:\Labs Patrones\Unidad 2\lab-2026-i-pds-u2-03-cs-RenzoAntayhua\Payment\Payment.Domain\obj\Debug\net10.0\Payment.Domain.sourcelink.json
+D:\Labs Patrones\Unidad 2\lab-2026-i-pds-u2-03-cs-RenzoAntayhua\Payment\Payment.Domain\obj\Debug\net10.0\Payment.Domain.dll
+D:\Labs Patrones\Unidad 2\lab-2026-i-pds-u2-03-cs-RenzoAntayhua\Payment\Payment.Domain\obj\Debug\net10.0\refint\Payment.Domain.dll
+D:\Labs Patrones\Unidad 2\lab-2026-i-pds-u2-03-cs-RenzoAntayhua\Payment\Payment.Domain\obj\Debug\net10.0\Payment.Domain.pdb
+D:\Labs Patrones\Unidad 2\lab-2026-i-pds-u2-03-cs-RenzoAntayhua\Payment\Payment.Domain\obj\Debug\net10.0\ref\Payment.Domain.dll

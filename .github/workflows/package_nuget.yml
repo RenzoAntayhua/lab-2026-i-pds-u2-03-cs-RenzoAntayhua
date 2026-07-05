@@ -1,0 +1,12 @@
+name: Package NuGet
+on:
+  push:
+    branches: [ main ]
+jobs:
+  pack-nuget:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: Build
+        run: echo "nuget"

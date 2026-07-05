@@ -1,0 +1,16 @@
+name: Publish Docs
+on:
+  push:
+    branches: [ main ]
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+jobs:
+  build-docs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: Build Docs
+        run: echo "pages"

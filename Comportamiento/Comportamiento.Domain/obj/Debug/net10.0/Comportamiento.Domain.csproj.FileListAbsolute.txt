@@ -1,0 +1,12 @@
+D:\Labs Patrones\Unidad 2\lab-2026-i-pds-u2-03-cs-RenzoAntayhua\Comportamiento\Comportamiento.Domain\bin\Debug\net10.0\Comportamiento.Domain.deps.json
+D:\Labs Patrones\Unidad 2\lab-2026-i-pds-u2-03-cs-RenzoAntayhua\Comportamiento\Comportamiento.Domain\bin\Debug\net10.0\Comportamiento.Domain.dll
+D:\Labs Patrones\Unidad 2\lab-2026-i-pds-u2-03-cs-RenzoAntayhua\Comportamiento\Comportamiento.Domain\bin\Debug\net10.0\Comportamiento.Domain.pdb
+D:\Labs Patrones\Unidad 2\lab-2026-i-pds-u2-03-cs-RenzoAntayhua\Comportamiento\Comportamiento.Domain\obj\Debug\net10.0\Comportamiento.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs Patrones\Unidad 2\lab-2026-i-pds-u2-03-cs-RenzoAntayhua\Comportamiento\Comportamiento.Domain\obj\Debug\net10.0\Comportamiento.Domain.AssemblyInfoInputs.cache
+D:\Labs Patrones\Unidad 2\lab-2026-i-pds-u2-03-cs-RenzoAntayhua\Comportamiento\Comportamiento.Domain\obj\Debug\net10.0\Comportamiento.Domain.AssemblyInfo.cs
+D:\Labs Patrones\Unidad 2\lab-2026-i-pds-u2-03-cs-RenzoAntayhua\Comportamiento\Comportamiento.Domain\obj\Debug\net10.0\Comportamiento.Domain.csproj.CoreCompileInputs.cache
+D:\Labs Patrones\Unidad 2\lab-2026-i-pds-u2-03-cs-RenzoAntayhua\Comportamiento\Comportamiento.Domain\obj\Debug\net10.0\Comportamiento.Domain.sourcelink.json
+D:\Labs Patrones\Unidad 2\lab-2026-i-pds-u2-03-cs-RenzoAntayhua\Comportamiento\Comportamiento.Domain\obj\Debug\net10.0\Comportamiento.Domain.dll
+D:\Labs Patrones\Unidad 2\lab-2026-i-pds-u2-03-cs-RenzoAntayhua\Comportamiento\Comportamiento.Domain\obj\Debug\net10.0\refint\Comportamiento.Domain.dll
+D:\Labs Patrones\Unidad 2\lab-2026-i-pds-u2-03-cs-RenzoAntayhua\Comportamiento\Comportamiento.Domain\obj\Debug\net10.0\Comportamiento.Domain.pdb
+D:\Labs Patrones\Unidad 2\lab-2026-i-pds-u2-03-cs-RenzoAntayhua\Comportamiento\Comportamiento.Domain\obj\Debug\net10.0\ref\Comportamiento.Domain.dll

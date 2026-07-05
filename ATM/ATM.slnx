@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ATM.Domain.Tests/ATM.Domain.Tests.csproj" />
+  <Project Path="ATM.Domain/ATM.Domain.csproj" />
+</Solution>
